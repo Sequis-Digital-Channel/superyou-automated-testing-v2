@@ -57,6 +57,17 @@ A few ways to run automation test:
 - Terminal (Windows): Press `python testcase_existing/testcase_existing_single_product.py` then click Enter
 - Terminal (Mac): Press `python3 testcase_existing/testcase_existing_single_product.py` then click Enter
 
+<br/>
+
+## To Run all the Test Cases
+
+All test run scripts is in `testcase_script`
+
+Run in Bash
+```console
+./test.sh
+```
+
 ### For references:
 Microsoft Edge Installation: https://docs.microsoft.com/en-us/microsoft-edge/webdriver-chromium/?tabs=python
 Requirements Text Documentation: https://pip.pypa.io/en/stable/user_guide/#requirements-files
